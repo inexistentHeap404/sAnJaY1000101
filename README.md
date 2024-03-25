@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ and pygame
 - 💞️ I’m looking to collaborate on Interesting small projects and hackathons
 - 📫 How to reach me mail : sanjayv0521@gmail.com
-- 😄 Pronouns: curious, lazy (even now I looking to shorten words how much ever possible) 
+- 😄 Pronouns: He/Him \t curious, lazy (even now I looking to shorten words how much ever possible) 
 - ⚡ Fun fact: I'm lazy to type this
 
 <!---
