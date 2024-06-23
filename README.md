@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sAnJaY1000101
-- 👀 I’m interested in Physics, Quantum Computing, Quantum mechanics, Competetive Programming
-- 🌱 I’m currently learning C++ and pygame
+- 👀 I’m interested in Physics, Quantum Computing, Quantum mechanics, Competetive Programming, WebDev, Pentesting and coding for fun!!
+- 🌱 I’m currently learning ML and pentesting
 - 💞️ I’m looking to collaborate on Interesting small projects and hackathons
 - 📫 How to reach me mail : sanjayv0521@gmail.com
 - 😄 Pronouns: He/Him \t curious, lazy (even now I looking to shorten words how much ever possible) 
