@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sAnJaY1000101
+- 👋 Hi, I’m @inexistentHeap404
 - 👀 I’m interested in Physics, Quantum Computing, Quantum mechanics, Competetive Programming, WebDev + ReactJS, Pentesting and coding for fun!!
 - 🌱 I’m currently learning ML and advanced C
 - 💞️ I’m looking to collaborate on Interesting small projects and hackathons
